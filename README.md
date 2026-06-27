@@ -1,5 +1,7 @@
 # 🛰️ AI Trackers
 
+**English | [中文](README.zh-CN.md)**
+
 Three prompt-driven, scheduled "trackers" that keep me on top of the AI world.
 They aren't traditional scripts — each tracker is a **natural-language instruction file** (`SKILL.md`)
 executed on a schedule by an AI agent ([Claude Code](https://claude.com/claude-code) /
@@ -38,7 +40,15 @@ trackers/
   thinker-tracker/SKILL.md    # daily
   feature-tracker/SKILL.md    # weekly (Fri)
   trend-tracker/SKILL.md      # twice-weekly (Mon/Thu)
+examples/                     # sample bilingual outputs
 ```
+
+## Examples
+
+See [`examples/`](examples/) for real bilingual digests:
+- [🧠 Thinker Tracker](examples/2026-06-27-thinker-tracker.md)
+- [🚀 Feature Tracker](examples/2026-06-27-feature-tracker.md)
+- [📈 Trend Tracker](examples/2026-06-27-trend-tracker.md)
 
 ## Customising
 
